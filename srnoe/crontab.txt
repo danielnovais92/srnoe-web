@@ -1,0 +1,3 @@
+*/5 * * * * php /var/www/html/srnoe/site.php
+*/5 * * * * php /var/www/html/srnoe/facebook.php
+*/5 * * * * php /var/www/html/srnoe/blog.php
